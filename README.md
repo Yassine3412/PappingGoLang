@@ -17,7 +17,7 @@ To build this project on your local machine, follow these steps:
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/YOUR_USERNAME/PappingGoLang.git
+   git clone https://github.com/Yassine3412/PappingGoLang.git
    cd PappingGoLang
    ```
 
@@ -48,14 +48,10 @@ Options:
 ./papping -host scanme.nmap.org -port 443
 ```
 
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
 ## 🤝 Contributing
 
 Pull requests are welcome! Feel free to submit issues or improvements.
 
 ## 📧 Contact
 
-For questions or support, reach out via email: `your_email@example.com`
+For questions or support open a ticket
